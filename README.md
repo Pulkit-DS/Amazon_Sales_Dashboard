@@ -1,6 +1,5 @@
 # 📊 Amazon Sales Dashboard
 
-![Amazon Sales Dashboard](dashboard.png)
 
 ## 📌 Project Overview
 
